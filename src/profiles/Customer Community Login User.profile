@@ -66,6 +66,10 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>TestCLass1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>TestObject</apexClass>
         <enabled>false</enabled>
     </classAccesses>
