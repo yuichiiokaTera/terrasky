@@ -65,6 +65,10 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>TestObject</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <layoutAssignments>
         <layout>Account-Account %28Support%29 Layout</layout>
