@@ -73,6 +73,10 @@
         <apexClass>TestObject</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>aaa</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <layoutAssignments>
         <layout>Account-Account %28Sales%29 Layout</layout>
